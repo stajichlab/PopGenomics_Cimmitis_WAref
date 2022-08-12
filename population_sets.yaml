@@ -1,8 +1,30 @@
 Populations:
 
   All:
-    - Sample_Example_1
-
-  PopA:
-    - Sample_Example_1
-    - Sample_Example_2
+    - San_Joaquin_Valley_2
+    - San_Joaquin_Valley_5
+    - San_Joaquin_Valley_6
+    - San_Joaquin_Valley_9
+    - San_Joaquin_Valley_11
+    - San_Diego_1.1
+    - Washington_1
+    - WA_202
+    - WA_205
+    - WA_211
+    - WA_212
+    - SJV_1
+    - SJV_2
+    - SJV_11
+    - Guerrero_1
+    - San_Diego_1.2
+    - Michoacan_2
+    - Coahuila_1
+    - B0727_Argentina
+    - SJV_3
+    - SJV_4
+    - SJV_5
+    - SJV_6
+    - SJV_7
+    - SJV_8
+    - SJV_9
+    - SJV_10
