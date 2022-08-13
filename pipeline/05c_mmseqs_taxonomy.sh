@@ -45,7 +45,7 @@ do
     fi
     mkdir -p $OUTSEARCH/$STRAIN
     if [ ! -f  $OUTSEARCH/$STRAIN/mmseq_uniref50_report ]; then
-	mmseqs easy-taxonomy $CONTIG $DB $OUTSEARCH/$STRAIN/mmseq_uniref50 $SCRATCH --threads $CPU --lca-ranks kingdom,phylum,family  --tax-lineage 1
+	mmseqs easy-taxonomy $CONTIG $DB2 $OUTSEARCH/$STRAIN/mmseq_uniref50 $SCRATCH --threads $CPU --lca-ranks kingdom,phylum,family  --tax-lineage 1
     fi
     if [ ! -f $OUTSEARCH/$STRAIN/mmseq_sprot_report ]; then
 	mmseqs easy-taxonomy $CONTIG $DB $OUTSEARCH/$STRAIN/mmseq_sprot $SCRATCH --threads $CPU --lca-ranks kingdom,phylum,family --tax-lineage 1
