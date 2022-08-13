@@ -1,5 +1,5 @@
 #!/bin/bash -l
-#SBATCH -p short -N 1 -n 64 --mem 128gb --out logs/unmapped_asm_mmseqs_classify.%a.log
+#SBATCH -p short -N 1 -n 64 --mem 256gb --out logs/unmapped_asm_mmseqs_classify.%a.log
 
 module load mmseqs2
 module load KronaTools
