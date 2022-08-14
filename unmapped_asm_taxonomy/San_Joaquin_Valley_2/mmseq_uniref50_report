@@ -1,0 +1,26 @@
+2.3810	1	1	no rank	0	unclassified
+97.6190	41	0	no rank	1	root
+97.6190	41	2	no rank	131567	  cellular organisms
+92.8571	39	1	superkingdom	2759	    Eukaryota
+90.4762	38	0	clade	33154	      Opisthokonta
+90.4762	38	0	kingdom	4751	        Fungi
+90.4762	38	4	subkingdom	451864	          Dikarya
+80.9524	34	0	phylum	4890	            Ascomycota
+80.9524	34	1	clade	716545	              saccharomyceta
+78.5714	33	1	subphylum	147538	                Pezizomycotina
+76.1905	32	2	clade	716546	                  leotiomyceta
+66.6667	28	0	class	147545	                    Eurotiomycetes
+66.6667	28	1	subclass	451871	                      Eurotiomycetidae
+64.2857	27	6	order	33183	                        Onygenales
+47.6190	20	0	family	33184	                          Onygenaceae
+47.6190	20	4	genus	5500	                            Coccidioides
+33.3333	14	9	species	5501	                              Coccidioides immitis
+9.5238	4	4	strain	396776	                                Coccidioides immitis H538.4
+2.3810	1	1	strain	404692	                                Coccidioides immitis RMSCC 2394
+4.7619	2	1	species	199306	                              Coccidioides posadasii
+2.3810	1	1	strain	454284	                                Coccidioides posadasii RMSCC 3488
+2.3810	1	1	family	299071	                          Ajellomycetaceae
+4.7619	2	1	clade	715989	                    sordariomyceta
+2.3810	1	0	class	147550	                      Sordariomycetes
+2.3810	1	0	subclass	222544	                        Sordariomycetidae
+2.3810	1	1	order	5114	                          Diaporthales

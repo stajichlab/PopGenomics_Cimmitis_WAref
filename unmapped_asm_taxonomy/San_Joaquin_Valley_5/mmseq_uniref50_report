@@ -1,0 +1,44 @@
+2.5000	1	1	no rank	0	unclassified
+97.5000	39	0	no rank	1	root
+97.5000	39	1	no rank	131567	  cellular organisms
+92.5000	37	1	superkingdom	2759	    Eukaryota
+90.0000	36	0	clade	33154	      Opisthokonta
+90.0000	36	0	kingdom	4751	        Fungi
+90.0000	36	3	subkingdom	451864	          Dikarya
+82.5000	33	0	phylum	4890	            Ascomycota
+82.5000	33	1	clade	716545	              saccharomyceta
+80.0000	32	1	subphylum	147538	                Pezizomycotina
+77.5000	31	1	clade	716546	                  leotiomyceta
+70.0000	28	0	class	147545	                    Eurotiomycetes
+70.0000	28	2	subclass	451871	                      Eurotiomycetidae
+65.0000	26	6	order	33183	                        Onygenales
+47.5000	19	0	family	33184	                          Onygenaceae
+45.0000	18	8	genus	5500	                            Coccidioides
+20.0000	8	3	species	5501	                              Coccidioides immitis
+5.0000	2	2	strain	396776	                                Coccidioides immitis H538.4
+2.5000	1	1	strain	246410	                                Coccidioides immitis RS
+2.5000	1	1	strain	404692	                                Coccidioides immitis RMSCC 2394
+2.5000	1	1	strain	454286	                                Coccidioides immitis RMSCC 3703
+5.0000	2	0	species	199306	                              Coccidioides posadasii
+5.0000	2	2	strain	443226	                                Coccidioides posadasii str. Silveira
+2.5000	1	0	genus	33187	                            Uncinocarpus
+2.5000	1	0	species	33188	                              Uncinocarpus reesii
+2.5000	1	1	strain	336963	                                Uncinocarpus reesii 1704
+2.5000	1	0	family	299071	                          Ajellomycetaceae
+2.5000	1	0	genus	1955773	                            Emergomyces
+2.5000	1	0	species	1955774	                              Emergomyces pasteurianus
+2.5000	1	1	strain	1447872	                                Emergomyces pasteurianus Ep9510
+5.0000	2	1	clade	715989	                    sordariomyceta
+2.5000	1	0	class	147550	                      Sordariomycetes
+2.5000	1	0	subclass	222544	                        Sordariomycetidae
+2.5000	1	1	order	5114	                          Diaporthales
+2.5000	1	0	superkingdom	2	    Bacteria
+2.5000	1	0	phylum	1224	      Proteobacteria
+2.5000	1	0	subphylum	68525	        delta/epsilon subdivisions
+2.5000	1	0	class	28221	          Deltaproteobacteria
+2.5000	1	0	order	29	            Myxococcales
+2.5000	1	0	suborder	80811	              Cystobacterineae
+2.5000	1	0	family	31	                Myxococcaceae
+2.5000	1	0	genus	83461	                  Corallococcus
+2.5000	1	0	no rank	2685029	                    unclassified Corallococcus
+2.5000	1	1	species	2316727	                      Corallococcus sp. CA041A

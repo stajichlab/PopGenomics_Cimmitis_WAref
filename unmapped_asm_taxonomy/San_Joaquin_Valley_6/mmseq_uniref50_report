@@ -1,0 +1,48 @@
+100.0000	45	0	no rank	1	root
+100.0000	45	0	no rank	131567	  cellular organisms
+100.0000	45	1	superkingdom	2759	    Eukaryota
+93.3333	42	0	clade	33154	      Opisthokonta
+93.3333	42	0	kingdom	4751	        Fungi
+93.3333	42	0	subkingdom	451864	          Dikarya
+93.3333	42	0	phylum	4890	            Ascomycota
+93.3333	42	0	clade	716545	              saccharomyceta
+91.1111	41	1	subphylum	147538	                Pezizomycotina
+88.8889	40	1	clade	716546	                  leotiomyceta
+82.2222	37	0	class	147545	                    Eurotiomycetes
+82.2222	37	3	subclass	451871	                      Eurotiomycetidae
+75.5556	34	8	order	33183	                        Onygenales
+53.3333	24	0	family	33184	                          Onygenaceae
+53.3333	24	10	genus	5500	                            Coccidioides
+24.4444	11	3	species	5501	                              Coccidioides immitis
+11.1111	5	5	strain	246410	                                Coccidioides immitis RS
+4.4444	2	2	strain	396776	                                Coccidioides immitis H538.4
+2.2222	1	1	strain	404692	                                Coccidioides immitis RMSCC 2394
+6.6667	3	0	species	199306	                              Coccidioides posadasii
+6.6667	3	3	strain	443226	                                Coccidioides posadasii str. Silveira
+4.4444	2	0	family	299071	                          Ajellomycetaceae
+2.2222	1	0	genus	5036	                            Histoplasma
+2.2222	1	0	no rank	2617678	                              unclassified Histoplasma
+2.2222	1	1	species	2059318	                                Histoplasma mississippiense (nom. inval.)
+2.2222	1	0	genus	229219	                            Blastomyces
+2.2222	1	1	species	2060906	                              Blastomyces silverae
+4.4444	2	1	clade	715989	                    sordariomyceta
+2.2222	1	0	class	147550	                      Sordariomycetes
+2.2222	1	0	subclass	222543	                        Hypocreomycetidae
+2.2222	1	0	order	5125	                          Hypocreales
+2.2222	1	0	family	474942	                            Ophiocordycipitaceae
+2.2222	1	0	no rank	977856	                              unclassified Ophiocordycipitaceae
+2.2222	1	1	species	1907519	                                Ophiocordycipitaceae sp.
+2.2222	1	0	subphylum	147537	                Saccharomycotina
+2.2222	1	0	class	4891	                  Saccharomycetes
+2.2222	1	0	order	4892	                    Saccharomycetales
+2.2222	1	0	family	766764	                      Debaryomycetaceae
+2.2222	1	0	genus	4958	                        Debaryomyces
+2.2222	1	1	species	45577	                          [Candida] psychrophila
+4.4444	2	0	kingdom	33090	      Viridiplantae
+4.4444	2	0	phylum	3041	        Chlorophyta
+4.4444	2	0	class	33103	          Ulvophyceae
+4.4444	2	0	clade	2546215	            OUU clade
+4.4444	2	0	order	3113	              Ulvales
+4.4444	2	0	family	3114	                Ulvaceae
+4.4444	2	0	genus	3118	                  Ulva
+4.4444	2	2	species	83791	                    Ulva flexuosa
