@@ -50,7 +50,7 @@ fasttreerun() {
         in=$1
 	out=$(echo $in | perl -p -e 's/\.mfa/.fasttree.tre/')
         if [[ ! -f $out || $in -nt $out ]]; then
-                sbatch -p short -n $FTTREECPU -N 1 --mem 24gb -p short -J FastTree --wrap "module load fasttree; FastTreeMP -gtr -gamma -nt < $in > $out"
+        	sbatch -p short -n 32 -N 1 --mem 24gb -p short -J FastTree --wrap "module load fasttree; FastTreeMP -gtr -gamma -nt < $in > $out"
         fi
 }
 
@@ -83,6 +83,5 @@ do
     fi
   done
 done
-exit
 parallel -j 2 fasttreerun ::: $(ls $TREEDIR/*.mfa)
-parallel -j 4 iqtreerun ::: $(ls $TREEDIR/*.mfa)
+#parallel -j 4 iqtreerun ::: $(ls $TREEDIR/*.mfa)
